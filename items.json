@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Sword",
+    "type": "Weapon",
+    "description": "A sharp sword for fighting."
+  },
+  {
+    "id": "2",
+    "name": "Shield",
+    "type": "Armor",
+    "description": "A protective shield to block attacks."
+  },
+  {
+    "id": "3",
+    "name": "Healing Potion",
+    "type": "Consumable",
+    "description": "Restores 50 HP when used."
+  },
+  {
+    "id": "4",
+    "name": "Bow",
+    "type": "Weapon",
+    "description": "A ranged weapon for shooting arrows."
+  },
+  {
+    "id": "5",
+    "name": "Helmet",
+    "type": "Armor",
+    "description": "A helmet to protect the head from blows."
+  },
+  {
+    "id": "6",
+    "name": "Mana Potion",
+    "type": "Consumable",
+    "description": "Restores 30 MP when used."
+  },
+  {
+    "id": "7",
+    "name": "Dagger",
+    "type": "Weapon",
+    "description": "A small but deadly blade."
+  },
+  {
+    "id": "8",
+    "name": "Plate Mail",
+    "type": "Armor",
+    "description": "Heavy armor providing high defense."
+  },
+  {
+    "id": "9",
+    "name": "Magic Staff",
+    "type": "Weapon",
+    "description": "A staff imbued with magical powers."
+  },
+  {
+    "id": "10",
+    "name": "Ring of Strength",
+    "type": "Accessory",
+    "description": "A ring that increases strength by 10."
+  },
+  {
+    "id": "11",
+    "name": "Boots of Speed",
+    "type": "Accessory",
+    "description": "Increases movement speed by 20%."
+  },
+  {
+    "id": "12",
+    "name": "Leather Armor",
+    "type": "Armor",
+    "description": "Light armor made from durable leather."
+  },
+  {
+    "id": "13",
+    "name": "Crossbow",
+    "type": "Weapon",
+    "description": "A crossbow that fires bolts at high speed."
+  },
+  {
+    "id": "14",
+    "name": "Health Potion",
+    "type": "Consumable",
+    "description": "Heals 100 HP instantly when consumed."
+  },
+  {
+    "id": "15",
+    "name": "Cloak of Invisibility",
+    "type": "Accessory",
+    "description": "Grants temporary invisibility."
+  }
+]
